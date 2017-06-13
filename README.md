@@ -1,6 +1,8 @@
 # FYP
 Final year project code
 
+FYP_virtual & read_virtual
+
 Steady-state Kalman filter: kalman_method=steady-state
 
 Test 0: no disturbance
@@ -32,3 +34,9 @@ Time-varying Kalman filter: kalman_method=time-varying
 Test 12: no disturbance
 
 Test 13: signal loss (10 time steps)
+
+FYP_physical & read_physical
+
+Test 14: time-varying Kalman filter with physical data
+
+Test 15: steady-state Kalman filter with physical data
