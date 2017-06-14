@@ -33,7 +33,7 @@ Time-varying Kalman filter: kalman_method=time-varying
 
 Test 12: no disturbance
 
-Test 13: signal loss (10 time steps)
+Test 13: signal loss (1, 2, 10 time steps)
 
 FYP_physical & read_physical
 
