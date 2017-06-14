@@ -9,13 +9,13 @@ Test 0: no disturbance
 
 Test 1: measurement and process noise (1% each, 5% each)
 
-Test 2: neasurement noise (10%)
+Test 2: measurement noise (10%)
 
 Test 3: process noise (1%, 5%)
 
-Test 4: uncertainties in R (1% of each noise type)
+Test 4: uncertainties in R (1% of each noise type, 10% measurement noise)
 
-Test 5: uncertainties in Q (1% of each noise type)
+Test 5: uncertainties in Q (1% of each noise type, 5% process noise)
 
 Test 6: uncertainties in Q & R (1% of each noise type)
 
