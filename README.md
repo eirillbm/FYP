@@ -37,6 +37,6 @@ Test 13: signal loss (1, 2, 10 time steps)
 
 FYP_physical & read_physical
 
-Test 14: time-varying Kalman filter with physical data
+Test 14: time-varying Kalman filter with physical data (1% process noise on linear velocities)
 
-Test 15: steady-state Kalman filter with physical data
+Test 15: steady-state Kalman filter with physical data (1% process noise on linear velocities)
